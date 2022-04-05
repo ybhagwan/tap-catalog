@@ -12,3 +12,4 @@ spec:
     - ./systems/tap-gui-system.yaml
     - ./domains/tap-gui-domain.yaml
     - https://github.com/ybhagwan/tanzu-java-web-app/blob/main/catalog/catalog-info.yaml
+    - https://github.com/sample-accelerators/tanzu-java-web-app/blob/main/catalog/catalog-info.yaml
