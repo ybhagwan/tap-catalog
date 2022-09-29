@@ -14,3 +14,6 @@ spec:
     - https://github.com/ybhagwan/tanzu-java-web-app/blob/main/catalog/catalog-info.yaml
     - https://github.com/sample-accelerators/tanzu-java-web-app/blob/main/catalog/catalog-info.yaml
     - https://github.com/ybhagwan/spring-petclinic/blob/main/catalog-info.yaml
+    - https://github.com/vmware-tanzu/application-accelerator-samples/blob/main/java-rest-service/catalog/catalog-info.yaml
+    - https://github.com/sample-accelerators/spring-smtp-gateway/blob/main/smtp-gateway/catalog/catalog.yaml
+    - https://github.com/sample-accelerators/spring-smtp-gateway/blob/main/smtp-sink/catalog/catalog.yaml
