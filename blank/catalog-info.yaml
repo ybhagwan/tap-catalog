@@ -17,3 +17,4 @@ spec:
     - https://github.com/vmware-tanzu/application-accelerator-samples/blob/main/java-rest-service/catalog/catalog-info.yaml
     - https://github.com/sample-accelerators/spring-smtp-gateway/blob/main/smtp-gateway/catalog/catalog.yaml
     - https://github.com/sample-accelerators/spring-smtp-gateway/blob/main/smtp-sink/catalog/catalog.yaml
+    - https://github.com/vmware-tanzu/application-accelerator-samples/where-for-dinner/blob/main/catalog/catalog-info.yaml
